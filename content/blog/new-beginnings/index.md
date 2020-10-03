@@ -1,12 +1,12 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Gatsby New Blog Test
+date: "2020-10-02"
+description: テスト てすと test TEST
 ---
 
-あいうえお
+ギャツビー
 
-## On deer horse aboard tritely yikes and much
+> ### テスト　てすと
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text

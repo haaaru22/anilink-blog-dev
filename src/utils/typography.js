@@ -1,7 +1,8 @@
 import Typography from "typography"
-import theme from "typography-theme-github" // テーマのインポート
+import theme from "typography-theme-github"
+import "./font.css"
 
-theme.headerFontFamily = ["M PLUS 1p", "Roboto", "serif"]
+theme.headerFontFamily = ["inferi-Thin", "M PLUS 1p", "Roboto", "serif"]
 theme.bodyFontFamily = ["M PLUS 1p", "Roboto", "serif"]
 theme.googleFonts = [
   {
